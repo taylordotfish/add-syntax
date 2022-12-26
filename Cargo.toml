@@ -1,7 +1,8 @@
 [package]
 name = "add-syntax"
-version = "0.1.0"
+version = "0.1.1-dev"
 edition = "2018"
+rust-version = "1.53"
 description = """Attribute macros that prepend or append arbitrary syntax. \
     Useful with `cfg_attr`."""
 documentation = "https://docs.rs/add-syntax"
